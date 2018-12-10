@@ -1,5 +1,5 @@
 {
-  "name": "slate-deep-table",
+  "name": "@yolkai/slate-deep-table",
   "description": "A Slate plugin to handle tables containing complex content.",
   "version": "0.8.0",
   "license": "Apache-2.0",
