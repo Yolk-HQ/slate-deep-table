@@ -5,6 +5,9 @@
   "license": "Apache-2.0",
   "repository": "git://github.com/jasonphillips/slate-deep-table.git",
   "main": "./dist/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "slate-html-serializer": "^0.7.20"
   },
